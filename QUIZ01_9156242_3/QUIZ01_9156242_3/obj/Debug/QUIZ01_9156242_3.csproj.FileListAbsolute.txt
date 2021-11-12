@@ -1,0 +1,10 @@
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\bin\Debug\QUIZ01_9156242_3.exe.config
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\bin\Debug\QUIZ01_9156242_3.exe
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\bin\Debug\QUIZ01_9156242_3.pdb
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.csproj.AssemblyReference.cache
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.Form1.resources
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.Properties.Resources.resources
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.csproj.GenerateResource.cache
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.csproj.CoreCompileInputs.cache
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.exe
+C:\Users\leo12\source\repos\QUIZ01_9156242_3\QUIZ01_9156242_3\obj\Debug\QUIZ01_9156242_3.pdb
